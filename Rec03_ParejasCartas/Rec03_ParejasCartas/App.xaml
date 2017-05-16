@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Rec03_ParejasCartas.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Rec03_ParejasCartas"
+    RequestedTheme="Light">
+
+</Application>
